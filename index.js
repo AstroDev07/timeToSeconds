@@ -7,4 +7,4 @@ const timeToSeconds = (time = "05:30:20") => {
     return totalSeconds
 }
 
-console.log(timeToSeconds())
+module.exports = timeToSeconds

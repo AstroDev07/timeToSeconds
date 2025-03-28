@@ -1,0 +1,17 @@
+{
+  "name": "timetoseconds",
+  "version": "1.0.0",
+  "description": "This function helps you convert a given time in format h:m:s to his equivalent in seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node.js",
+    "timetoseconds",
+    "timeconversion",
+    "seconds"
+  ],
+  "author": "Diego A. Enriquez Puig (AtroDev07)",
+  "license": "MIT"
+}

@@ -1,4 +1,4 @@
-const timeToSeconds = (time = "05:00:00") => {
+const timeToSeconds = (time = "05:30:20") => {
     let units = time.split(":")
     let totalSeconds = Number(units[2])
     totalSeconds += Number(units[1])*60
